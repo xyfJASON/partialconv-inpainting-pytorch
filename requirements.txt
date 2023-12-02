@@ -1,7 +1,7 @@
 yacs
 tqdm
-torch
-torchvision
 tensorboard
-accelerate
-fvcore
+torch~=1.13.0
+torchvision~=0.14.0
+accelerate>=0.19.0
+fvcore>=0.1.5
