@@ -14,7 +14,7 @@ Clone this repo:
 
 ```shell
 git clone https://github.com/xyfJASON/PartialConv-Inpainting-pytorch.git
-cd Context-Encoder-pytorch
+cd PartialConv-Inpainting-pytorch
 ```
 
 Create and activate a conda environment:
